@@ -1,6 +1,6 @@
 # Welcome to the AV-EFI Organisation
 
-** AV-EFI: Automatisiertes Verbundsystem für audiovisuelle Bestände über einheitliche Film Identifikatoren **
+*AV-EFI: Automatisiertes Verbundsystem für audiovisuelle Bestände über einheitliche Film Identifikatoren*
 
 AV-EFI is a cooperation between the TIB, the Stiftung Deutsche Kinemathek - Museum für Film und Fernsehen (SDK), the Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) and the Filmmuseum der Landeshauptstadt Düsseldorf (FMD).
 
